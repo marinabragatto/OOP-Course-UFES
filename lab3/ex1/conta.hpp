@@ -13,7 +13,7 @@ private:
     Pessoa titular;
 
 public:
-    Conta(std::string numero, Pessoa titular);
+    Conta(std::string numeroIn, Pessoa titularIn);
     void deposito(float valor);
     void saque(float valor);
     float ConsultaSaldo(void);
