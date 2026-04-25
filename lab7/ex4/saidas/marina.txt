@@ -1,0 +1,13 @@
+Passatempo: Receita=56.00, Custo=75.00, Lucro=-19.00
+LaranjaLima: Receita=19.00, Custo=39.65, Lucro=-20.65
+Hamburguer: Receita=1570.80, Custo=782.50, Lucro=788.30
+Alcatra: Receita=8414.15, Custo=7365.00, Lucro=1049.15
+BoloCocoQueimado: Receita=432.00, Custo=975.00, Lucro=-543.00
+Pizza: Receita=3285.00, Custo=2661.00, Lucro=624.00
+Receita Total: 13776.95
+Custo Total: 11898.15
+Lucro Total: 1878.80
+maior receita: Alcatra (8414.15)
+mais custoso: Alcatra (7365.00)
+mais lucrativo: Alcatra (1049.15)
+menos lucrativo: BoloCocoQueimado (-543.00)

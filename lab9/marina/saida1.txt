@@ -1,0 +1,23 @@
+Notificacao e-mail para giovani1574@hotmail.com: Compra realizada por giovani no valor de 5950.80 e entrega em ate 1 dias.
+Notificacao pop-up para 9981-6271: Compra realizada por giovani no valor de 5950.80 e entrega em ate 1 dias.
+Notificacao sms para 9981-6271: Compra realizada por giovani no valor de 5950.80 e entrega em ate 1 dias.
+kit-de-chaves-de-fenda-de-precisao 32.00
+microfone-de-lapela-sem-fio 33.00
+vitamins 19.00
+beds 6.00
+geladeira 46.00
+esteira-stepper 20.00
+smartphones 8.00
+escova-secadora 10.00
+mascaras-faciais 4.00
+earable-trackers 16.00
+mushroom-supplements 7.00
+bucket-hats 39.00
+robo-aspirador 19.00
+moody 24.00
+air-fryer 38.00
+apple-watch 19.00
+soma dos itens: 340.00
+frete: 6272.00
+total com frete: 6612.00
+valor total: 5950.80

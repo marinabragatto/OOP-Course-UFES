@@ -1,0 +1,5 @@
+4
+Onibus 10 100 2.5 40 5
+Metro 20 300 1.2
+Bicicleta 5 10 3 0.5
+Carro 30 0.1 200 4 2

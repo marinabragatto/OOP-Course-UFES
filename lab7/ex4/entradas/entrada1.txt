@@ -1,0 +1,7 @@
+6
+ProdutoEmpacotado Passatempo 100 20 0.75 2.80
+ProdutoPorPeso LaranjaLima 30.5 5.0 1.3 3.80
+ProdutoProcessadoUnidade Hamburguer 70 10.75 30 23.80 66
+CarneAcougue Alcatra 90 85 68.50 98.99 1200
+ProdutoProcessadoKg BoloCocoQueimado 150 1.5 750 5.40 80.0
+ProdutoProcessadoUnidade Pizza 95 23.80 400 65.70 50

@@ -1,0 +1,5 @@
+4
+Freelancer Ana 40 50
+CLT Bruno 3000 600 0.08 0.11
+Estagiario Carla 1500 300
+Vendedor Diego 2000 500 1

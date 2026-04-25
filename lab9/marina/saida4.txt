@@ -1,0 +1,19 @@
+Notificacao e-mail para ana156@gmail.com: Compra realizada por ana no valor de 1971.67 e entrega em ate 1 dias.
+Notificacao pop-up para 9945-7364: Compra realizada por ana no valor de 1971.67 e entrega em ate 1 dias.
+Notificacao sms para 9945-7364: Compra realizada por ana no valor de 1971.67 e entrega em ate 1 dias.
+fone-de-ouvido-sem-fio 1.00
+fire-tv-stick 17.00
+organizador-de-armario 48.00
+planners 32.00
+tapete-de-yoga 8.00
+collagen 41.00
+bandas-de-resistencia 7.00
+mushroom-supplements 35.00
+filtro-de-agua 46.00
+earable-trackers 22.00
+mini-lanterna-tatica-led-recarregavel 7.00
+embroidered-sweatshirts 45.00
+soma dos itens: 309.00
+frete: 1881.75
+total com frete: 2190.75
+valor total: 1971.67

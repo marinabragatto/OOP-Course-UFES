@@ -1,0 +1,9 @@
+enviando SMS para 123123-123123: 'compra em local incomum'.
+enviando e-mail para jose@email.com: 'compra em local incomum'.
+enviando pop-up para 123123-123123: 'compra em local incomum'.
+enviando notificação no aplicativo instalado em 123123-123123:  'compra em local incomum'.
+
+enviando SMS para 123123-123123: 'compra em local incomum'.
+enviando e-mail para jose@email.com: 'compra em local incomum'.
+enviando pop-up para 123123-123123: 'compra em local incomum'.
+enviando notificação no aplicativo instalado em 123123-123123:  'compra em local incomum'.

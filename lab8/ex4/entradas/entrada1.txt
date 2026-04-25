@@ -1,0 +1,6 @@
+5
+Carne 47.50
+Biscoito 3.80
+Pneu 430.0
+Halls 2.30
+Doritos 8.95

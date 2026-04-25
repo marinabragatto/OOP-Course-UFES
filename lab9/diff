@@ -1,0 +1,4 @@
+java Programa < entradas/entrada1.txt > marina/saida1.txt 
+java Programa < entradas/entrada4.txt > marina/saida4.txt 
+diff marina/saida1.txt saidas/saida1.txt
+diff marina/saida4.txt saidas/saida4.txt
